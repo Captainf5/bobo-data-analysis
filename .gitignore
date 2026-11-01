@@ -1,0 +1,9 @@
+_LOCAL.md
+.env
+*.env
+*.pem
+*.key
+credentials*.json
+secrets.*
+.learnings/
+__pycache__/
