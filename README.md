@@ -65,7 +65,11 @@
 
 面向个人工作者、学员与讲师的日常数据分析。**bobo-** 是个人通用工具；课程设计请使用独立的 **boai-** [博AI课程合集](https://github.com/Captainf5/boai-course)。
 
+由**冯博 Gatsby / 博派AI**维护，结合企业AI实操培训与日常数据分析场景持续完善。[讲师与项目介绍](https://github.com/Captainf5) · [博派官网](https://www.bopai.online/)。
+
 **问题反馈：**[GitHub Issues](https://github.com/Captainf5/bobo-data-analysis/issues)  
 **培训与合作：**[fengbo.football@foxmail.com](mailto:fengbo.football@foxmail.com)
 
 <sub>页面设计方法参考 [花叔 huashu-design](https://github.com/alchaincyf/huashu-design)。分析示例明确为教学模拟。</sub>
+
+<sub>介绍资料：冯博老师简介—2026简约版、[博派官网](https://www.bopai.online/)，核对日期：2026-11-02。课程任务示例与服务经历分开展示。</sub>
